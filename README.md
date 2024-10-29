@@ -7,6 +7,8 @@ on approaching for a generic interface for display drivers.
 * Going to be making a few drivers for STM32F4, and the Arduino boards.
 * Developing display drivers to the SSD1331 and the
 
+### Creating compile_commands.json
+* `pio run -t compiledb`
 
 ## Goal
 * Developing SSD1331 Display for Arduino, and then will take a look into developing the display \
