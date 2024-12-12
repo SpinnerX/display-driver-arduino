@@ -136,11 +136,19 @@ struct DisplayContext{
 //! @note pinMode - sets pin OUTPUT
 //! @note LOW=on, HIGH=off
 
-class DisplayDeviceInterface{
+class DisplayDeviceInterface2{
 public:
-    template<typename UFunction>
-    void Initialize(const UFunction& function){
-        displayCtx = function();
+    DisplayDeviceInterface2(){
+        Initialize();
+    }
+
+    void Initialize(){
+        // displayCtx = function();
+        displayCtx.scl = 13;
+        displayCtx.sda = 11;
+        displayCtx.cs = 10; // 
+        displayCtx.rst = 9; // reset pin
+        displayCtx.dc = 8; // 
 
         pinMode(displayCtx.dc, OUTPUT);
         // pinMode(displayCtx.cs, OUTPUT);
@@ -201,24 +209,6 @@ public:
         
         write_command(FILL_WINDOW);
         write_command(0x01);
-
-        // pinMode(displayCtx.dc, OUTPUT);
-        // pinMode(displayCtx.cs, OUTPUT);
-        // pinMode(displayCtx.mosi, OUTPUT);
-
-        // digitalWrite(displayCtx.dc, LOW);
-
-        // SPI.begin();
-        // SPI.setDataMode(SPI_MODE3);
-        // displayCtx = function();
-
-        // //! @note First we refresh our display
-        // digitalWrite(displayCtx.rst, HIGH);
-        // delay(50);
-        // digitalWrite(displayCtx.rst, LOW);
-        // delay(50);
-        // digitalWrite(displayCtx.rst, HIGH);
-        // delay(50);
     }
 
 
@@ -246,10 +236,7 @@ public:
 private:
 
     void SetPosition(uint8_t x, uint8_t y){
-        // switch (_rotation) {
-        // case SSD1331_PORTRAIT: SSD1331_SWAP(x, y); y = _width - y - 1; break;
-        // case SSD1331_REVERSE_PORTRAIT: SSD1331_SWAP(x, y); y = _width - y - 1; break;
-        // }
+
         if((x < 0) || (x > OLED_WIDTH) || (y < 0 || y > OLED_HEIGHT)) return;
 
         write_command(SET_COLUMN_ADDRESS);
@@ -259,10 +246,7 @@ private:
         write_command(OLED_HEIGHT-1);
     }
 
-    //! @note This is essentially how you will write data to the display
-    //! @note SPI.transfer send/recv one byte over to SPI bus
-    //! @note Essentially sends and receives one single byte per call to receive more data.
-    //! @note Needs to be called as many times needed.
+
     void write_command(uint8_t command){
         uint8_t dc = displayCtx.dc;
         uint8_t cs = displayCtx.cs;
@@ -273,9 +257,7 @@ private:
         digitalWrite(cs, HIGH);
     }
 
-    //! @note This is used to transfer data to our display
-    //! @note how we are going to be writing data.
-    //! @note Just going to be writing it like this to get an idea on how this'll work
+
     void write_data(uint8_t data){
         digitalWrite(displayCtx.dc, HIGH);
         digitalWrite(displayCtx.cs, LOW);
@@ -291,11 +273,6 @@ private:
 
 
     void resetCircuit(){
-        //! @note Resetting the Circuit
-        //! @note When ReS input pulled low
-        //! @note Chip initialized to the following contrast state
-        //! @note Individual contrasts A, B, and C are set to 80h  (0x80)
-        //! @note Reference to the SSD1331 Datasheet section 7.4 for this operations
         write_command(SET_CONTRAST_A);       //Set contrast for color A
         write_command(0x80);
         write_command(SET_CONTRAST_B);       //Set contrast for color B

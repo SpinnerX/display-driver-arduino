@@ -1,0 +1,422 @@
+[
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/CDC.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/CDC.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/HardwareSerial.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/HardwareSerial.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/HardwareSerial0.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/HardwareSerial0.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/HardwareSerial1.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/HardwareSerial1.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/HardwareSerial2.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/HardwareSerial2.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/HardwareSerial3.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/HardwareSerial3.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/IPAddress.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/IPAddress.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/PluggableUSB.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/PluggableUSB.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/Print.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/Print.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/Stream.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/Stream.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/Tone.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/Tone.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/USBCore.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/USBCore.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/uno/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "output": ".pio/build/uno/FrameworkArduino/WInterrupts.c.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/WMath.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/WMath.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/WString.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/WString.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/abi.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/abi.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/uno/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "output": ".pio/build/uno/FrameworkArduino/hooks.c.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/main.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/main.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/FrameworkArduino/new.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "output": ".pio/build/uno/FrameworkArduino/new.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/uno/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "output": ".pio/build/uno/FrameworkArduino/wiring.c.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/uno/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "output": ".pio/build/uno/FrameworkArduino/wiring_analog.c.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/uno/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "output": ".pio/build/uno/FrameworkArduino/wiring_digital.c.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -mmcu=atmega328p -x assembler-with-cpp -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard -c -o .pio/build/uno/FrameworkArduino/wiring_pulse.S.o /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "output": ".pio/build/uno/FrameworkArduino/wiring_pulse.S.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/uno/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "output": ".pio/build/uno/FrameworkArduino/wiring_pulse.c.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/uno/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "output": ".pio/build/uno/FrameworkArduino/wiring_shift.c.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/algorithm.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/algorithm.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/algorithm.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/algorithm.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/associative_base.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/associative_base.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/associative_base.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/associative_base.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/bitset.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/bitset.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/bitset.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/bitset.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/char_traits.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/char_traits.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/char_traits.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/char_traits.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/complex.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/complex.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/complex.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/complex.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/del_op.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/del_op.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/del_op.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/del_op.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/del_opnt.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/del_opnt.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/del_opnt.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/del_opnt.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/del_opv.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/del_opv.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/del_opv.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/del_opv.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/del_opvnt.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/del_opvnt.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/del_opvnt.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/del_opvnt.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/deque.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/deque.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/deque.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/deque.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/eh_alloc.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/eh_alloc.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/eh_alloc.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/eh_alloc.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/eh_globals.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/eh_globals.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/eh_globals.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/eh_globals.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/exception.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/exception.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/exception.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/exception.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/fstream.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/fstream.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/fstream.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/fstream.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/func_exception.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/func_exception.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/func_exception.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/func_exception.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/iomanip.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/iomanip.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/iomanip.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/iomanip.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/ios.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/ios.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/ios.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/ios.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/iostream.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/iostream.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/iostream.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/iostream.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/istream.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/istream.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/istream.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/istream.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/iterator.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/iterator.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/iterator.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/iterator.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/limits.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/limits.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/limits.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/limits.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/list.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/list.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/list.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/list.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/locale.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/locale.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/locale.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/locale.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/map.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/map.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/map.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/map.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/new_handler.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/new_handler.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/new_handler.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/new_handler.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/new_op.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/new_op.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/new_op.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/new_op.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/new_opnt.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/new_opnt.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/new_opnt.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/new_opnt.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/new_opv.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/new_opv.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/new_opv.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/new_opv.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/new_opvnt.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/new_opvnt.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/new_opvnt.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/new_opvnt.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/numeric.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/numeric.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/numeric.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/numeric.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/ostream.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/ostream.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/ostream.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/ostream.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/queue.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/queue.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/queue.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/queue.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/set.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/set.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/set.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/set.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/sstream.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/sstream.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/sstream.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/sstream.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/stack.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/stack.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/stack.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/stack.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/stdexcept.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/stdexcept.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/stdexcept.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/stdexcept.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/streambuf.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/streambuf.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/streambuf.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/streambuf.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/string.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/string.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/string.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/string.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/support.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/support.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/support.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/support.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/typeinfo.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/typeinfo.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/typeinfo.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/typeinfo.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/utility.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/utility.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/utility.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/utility.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/valarray.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/valarray.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/valarray.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/valarray.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/libc73/StandardCplusplus/vector.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard .pio/libdeps/uno/StandardCplusplus/vector.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": ".pio/libdeps/uno/StandardCplusplus/vector.cpp",
+        "output": ".pio/build/uno/libc73/StandardCplusplus/vector.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/lib779/SPI/SPI.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/Users/aaronher/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard /Users/aaronher/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "/Users/aaronher/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp",
+        "output": ".pio/build/uno/lib779/SPI/SPI.cpp.o"
+    },
+    {
+        "command": "/Users/aaronher/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/uno/src/main.cpp.o -c -std=c++11 -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60113 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I/Users/aaronher/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I.pio/libdeps/uno/StandardCplusplus -I/Users/aaronher/.platformio/packages/framework-arduino-avr/cores/arduino -I/Users/aaronher/.platformio/packages/framework-arduino-avr/variants/standard src/main.cpp",
+        "directory": "/Users/aaronher/Desktop/display-driver-arduino",
+        "file": "src/main.cpp",
+        "output": ".pio/build/uno/src/main.cpp.o"
+    }
+]
